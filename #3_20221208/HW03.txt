@@ -1,0 +1,15 @@
+HW#3 08/12/2022
+1) จงรับเลขจำนวนเต็ม 4 จำนวนใด ๆ ที่เรียงลำดับจากน้อยไปมาก และให้แปลงเป็นเรียงลำดับจากมากไปน้อย
+2) จงแปลงวินาทีรวม ให้เป็น ชัวโมง นาที และวินาที
+  - ทำแบบ Void Function
+  - แบ่งเป็น Input Proceed Output
+
+3) จงสร้าง Function ในการหาพื้นที่ของวงกลม และความยาวเส้นรอบวง โดยสร้างเป็น Function ย่อย
+  - ทำเป็น 4 Function
+  - รับค่าเป็นรัศมี
+
+4) จงหาดอกเบี้ยทบต้นของเงินฝากประจำ 1 ปี
+  - void Input(float &, float &);
+  - float findInterest(float, float);
+  - void findCompound(float, float, float &);
+  - void Output(float, float, float);
